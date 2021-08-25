@@ -7,10 +7,14 @@ XDA : https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-andr
 
 
 
-Download : Sourceforge : https://sourceforge.net/projects/asusmaxprom2/files/REVENGE/RevengeOS-4.1-R-UNOFFICIAL-X01BD-20210825-0205.zip/download
+Download : 
 
 
-           GitHub      : https://github.com/kryptoniteX/RevengeOS-X01BD/releases/download/4.1R-Aug/RevengeOS-4.1-R-UNOFFICIAL-X01BD-20210825-0205.zip
+Sourceforge : https://sourceforge.net/projects/asusmaxprom2/files/REVENGE/RevengeOS-4.1-R-UNOFFICIAL-X01BD-20210825-0205.zip/downloa
+   
+   
+   
+GitHub      : https://github.com/kryptoniteX/RevengeOS-X01BD/releases/download/4.1R-Aug/RevengeOS-4.1-R-UNOFFICIAL-X01BD-20210825-0205.zip
 
 
 
